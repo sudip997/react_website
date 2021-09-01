@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react_website/static/css/main.1c850261.chunk.css",
-    "main.js": "/react_website/static/js/main.f3360e7a.chunk.js",
-    "main.js.map": "/react_website/static/js/main.f3360e7a.chunk.js.map",
-    "runtime-main.js": "/react_website/static/js/runtime-main.8a1f6fbb.js",
-    "runtime-main.js.map": "/react_website/static/js/runtime-main.8a1f6fbb.js.map",
+    "main.js": "/react_website/static/js/main.4470bbb9.chunk.js",
+    "main.js.map": "/react_website/static/js/main.4470bbb9.chunk.js.map",
+    "runtime-main.js": "/react_website/static/js/runtime-main.cc29a9f3.js",
+    "runtime-main.js.map": "/react_website/static/js/runtime-main.cc29a9f3.js.map",
     "static/css/2.818011ed.chunk.css": "/react_website/static/css/2.818011ed.chunk.css",
-    "static/js/2.53b69ddf.chunk.js": "/react_website/static/js/2.53b69ddf.chunk.js",
-    "static/js/2.53b69ddf.chunk.js.map": "/react_website/static/js/2.53b69ddf.chunk.js.map",
-    "static/js/3.05640186.chunk.js": "/react_website/static/js/3.05640186.chunk.js",
-    "static/js/3.05640186.chunk.js.map": "/react_website/static/js/3.05640186.chunk.js.map",
+    "static/js/2.2842c79f.chunk.js": "/react_website/static/js/2.2842c79f.chunk.js",
+    "static/js/2.2842c79f.chunk.js.map": "/react_website/static/js/2.2842c79f.chunk.js.map",
+    "static/js/3.7a74a8b2.chunk.js": "/react_website/static/js/3.7a74a8b2.chunk.js",
+    "static/js/3.7a74a8b2.chunk.js.map": "/react_website/static/js/3.7a74a8b2.chunk.js.map",
     "index.html": "/react_website/index.html",
     "static/css/2.818011ed.chunk.css.map": "/react_website/static/css/2.818011ed.chunk.css.map",
     "static/css/main.1c850261.chunk.css.map": "/react_website/static/css/main.1c850261.chunk.css.map",
-    "static/js/2.53b69ddf.chunk.js.LICENSE.txt": "/react_website/static/js/2.53b69ddf.chunk.js.LICENSE.txt",
+    "static/js/2.2842c79f.chunk.js.LICENSE.txt": "/react_website/static/js/2.2842c79f.chunk.js.LICENSE.txt",
     "static/media/digital_marketing.b57e3b76.jpg": "/react_website/static/media/digital_marketing.b57e3b76.jpg",
     "static/media/mobile_app_development.5e8ff852.jpg": "/react_website/static/media/mobile_app_development.5e8ff852.jpg",
     "static/media/mushrooms-1992408.bbca5533.svg": "/react_website/static/media/mushrooms-1992408.bbca5533.svg",
@@ -25,10 +25,10 @@
     "static/media/web_development.97cbacba.jpg": "/react_website/static/media/web_development.97cbacba.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a1f6fbb.js",
+    "static/js/runtime-main.cc29a9f3.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.53b69ddf.chunk.js",
+    "static/js/2.2842c79f.chunk.js",
     "static/css/main.1c850261.chunk.css",
-    "static/js/main.f3360e7a.chunk.js"
+    "static/js/main.4470bbb9.chunk.js"
   ]
 }
