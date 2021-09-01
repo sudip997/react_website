@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react_website/static/css/main.1c850261.chunk.css",
+    "main.js": "/react_website/static/js/main.f3360e7a.chunk.js",
+    "main.js.map": "/react_website/static/js/main.f3360e7a.chunk.js.map",
+    "runtime-main.js": "/react_website/static/js/runtime-main.8a1f6fbb.js",
+    "runtime-main.js.map": "/react_website/static/js/runtime-main.8a1f6fbb.js.map",
+    "static/css/2.818011ed.chunk.css": "/react_website/static/css/2.818011ed.chunk.css",
+    "static/js/2.53b69ddf.chunk.js": "/react_website/static/js/2.53b69ddf.chunk.js",
+    "static/js/2.53b69ddf.chunk.js.map": "/react_website/static/js/2.53b69ddf.chunk.js.map",
+    "static/js/3.05640186.chunk.js": "/react_website/static/js/3.05640186.chunk.js",
+    "static/js/3.05640186.chunk.js.map": "/react_website/static/js/3.05640186.chunk.js.map",
+    "index.html": "/react_website/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/react_website/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.1c850261.chunk.css.map": "/react_website/static/css/main.1c850261.chunk.css.map",
+    "static/js/2.53b69ddf.chunk.js.LICENSE.txt": "/react_website/static/js/2.53b69ddf.chunk.js.LICENSE.txt",
+    "static/media/digital_marketing.b57e3b76.jpg": "/react_website/static/media/digital_marketing.b57e3b76.jpg",
+    "static/media/mobile_app_development.5e8ff852.jpg": "/react_website/static/media/mobile_app_development.5e8ff852.jpg",
+    "static/media/mushrooms-1992408.bbca5533.svg": "/react_website/static/media/mushrooms-1992408.bbca5533.svg",
+    "static/media/seo.0036553f.jpg": "/react_website/static/media/seo.0036553f.jpg",
+    "static/media/software_development.7fa324ee.jpg": "/react_website/static/media/software_development.7fa324ee.jpg",
+    "static/media/undraw_Hello_re_3evm (1).8e91410a.svg": "/react_website/static/media/undraw_Hello_re_3evm (1).8e91410a.svg",
+    "static/media/undraw_Investment_data_re_sh9x.8817e5b4.svg": "/react_website/static/media/undraw_Investment_data_re_sh9x.8817e5b4.svg",
+    "static/media/web_design.64bf5561.jpg": "/react_website/static/media/web_design.64bf5561.jpg",
+    "static/media/web_development.97cbacba.jpg": "/react_website/static/media/web_development.97cbacba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a1f6fbb.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.53b69ddf.chunk.js",
+    "static/css/main.1c850261.chunk.css",
+    "static/js/main.f3360e7a.chunk.js"
+  ]
+}
